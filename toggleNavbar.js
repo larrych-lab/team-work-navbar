@@ -4,4 +4,5 @@ function toggleActive() {
     $(this).toggleClass("active");
   });
 }
+
 toggleActive();
